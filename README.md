@@ -11,7 +11,7 @@
 
 🚀 Je maîtrise :
 - **Python** avec le framework **Django**
-- **JavaScript** avec **ReactJS**
+- **JavaScript** avec  **NestJS** & **ReactJS**
 - Les outils & services liés à **AWS**
 
 ⚙️ En tant que DevOps, je conçois, déploie et automatise des **solutions cloud robustes et sécurisées**.
